@@ -1,11 +1,12 @@
 # hackintosh
-自用台式机黑苹果 macOS Mojave 10.14.5
+自用台式机黑苹果 macOS
 ### 主机硬件概述
-主板: 华擎ASRock B360M Pro4
-CPU: INTEL i3-8100
-显卡: RX580 2048sp
+- 主板: 华擎ASRock B360M Pro4
+- CPU: Intel core i3-8100
+- 显卡: 迪兰(Dataland) RX580 2048SP 4G X-Serial 战将 1284-1310/7000MHz 256-bit GDDR5
 ### 系统镜像文件
-链接: [百度网盘](https://pan.baidu.com/s/1mkKwJ50DDTfLcqHg0sgtpA) 提取码: ytnr
+- macOS Catalina 10.15.1 链接: [百度网盘](https://pan.baidu.com/s/1zDjO4jsh7Cyp2vz6maatgw) 提取码: tmjk
+- macOS Mojave 10.14.5 链接: [百度网盘](https://pan.baidu.com/s/1mkKwJ50DDTfLcqHg0sgtpA) 提取码: ytnr
 ### EFI文件
 [ASRock_B360M_Pro4_EFI.zip](https://github.com/Joehaivo/hackintosh/blob/master/ASRock_B360M_Pro4_EFI.zip)
 ### 驱动运行情况
