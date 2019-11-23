@@ -11,7 +11,7 @@
 [前往下载](https://github.com/Joehaivo/hackintosh/releases)
 ### 驱动运行情况
 0. 声卡正常, 采用AppleALC注入, id=92
-0. 显卡正常, 将GPU bios在windows下用刷机工具刷成RX470, 进入macos系统会自动驱动, 显示为Radeon RX570 4GB [vbios文件](https://github.com/Joehaivo/hackintosh/blob/master/MSI.RX570.4096.190115.rom)
+0. 显卡正常, 将GPU bios在windows下用刷机工具ATIFlash刷成RX470, 进入macos系统会自动驱动, 显示为Radeon RX570 4GB [vbios文件](https://github.com/Joehaivo/hackintosh/blob/master/MSI.RX570.4096.190115.rom)
 0. 开关机正常, 睡眠正常, 但是长时间睡眠之后唤醒可能会重启
 ### 参考信息
 0. [黑果小兵](https://blog.daliansky.net)
