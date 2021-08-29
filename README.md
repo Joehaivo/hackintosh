@@ -7,6 +7,10 @@
 ### 系统镜像文件
 - macOS Catalina 10.15.1 链接: [百度网盘](https://pan.baidu.com/s/1zDjO4jsh7Cyp2vz6maatgw) 提取码: tmjk
 - macOS Mojave 10.14.5 链接: [百度网盘](https://pan.baidu.com/s/1mkKwJ50DDTfLcqHg0sgtpA) 提取码: ytnr
+- macOS Big Sur 11.4 [链接](https://blog.daliansky.net/macOS-BigSur-11.4-20F71-Release-version-with-OC-0.6.9-and-Clover-5134-and-PE-original-image.html)
+
+![image](https://user-images.githubusercontent.com/12687795/131237116-09975d53-ec23-4b02-83ad-ada10f1e9414.png)
+
 ### EFI文件
 [前往下载](https://github.com/Joehaivo/hackintosh/releases)
 ### 驱动运行情况
@@ -14,5 +18,5 @@
 0. 显卡正常, 将GPU bios在windows下用刷机工具ATIFlash刷成RX470, 进入macos系统会自动驱动, 显示为Radeon RX570 4GB [vbios文件](https://github.com/Joehaivo/hackintosh/blob/master/MSI.RX570.4096.190115.rom)
 0. 开关机正常, 睡眠正常, 但是长时间睡眠之后唤醒可能会重启
 ### 参考信息
-0. [黑果小兵](https://blog.daliansky.net)
+0. [黑果小兵](https://blog.daliansky.net) [维护列表](https://blog.daliansky.net/Hackintosh-long-term-maintenance-model-checklist.html)
 0. [远景论坛](http://bbs.pcbeta.com/forum-559-1.html)
